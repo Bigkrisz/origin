@@ -1,2 +1,0 @@
-# origin
-Új repozitory
